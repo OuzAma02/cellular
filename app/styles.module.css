@@ -1,0 +1,16 @@
+/* styles.module.css */
+
+.container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .label {
+    margin-bottom: 10px;
+  }
+  
+  .stage {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+  }
+  
